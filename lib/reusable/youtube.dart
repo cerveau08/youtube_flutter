@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:youtube_flutter/models/example_content.dart';
+import 'package:youtube_flutter/views/youtube_card.dart';
 
 class YoutubeBody extends StatelessWidget {
   @override
