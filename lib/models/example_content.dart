@@ -25,7 +25,7 @@ class ExampleContent {
     YoutubeCardContent(
       videoThumbnailUrl: 'https://i.ytimg.com/vi/jPEYpryMp2s/hqdefault.jpg',
       channelThumbnailUrl:
-          'https://lh3.googleusercontent.com/a-/ACSszfEXV-31PV4_jgs8cUjxTIl0--Ganl9jFst10w=s176-c-k-c0x00ffffff-no-rj-mo',
+          'https://yt3.ggpht.com/-J99ZnnSa7vE/AAAAAAAAAAI/AAAAAAAAAAA/KAhUFRgc9hU/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg',
       trendingPosition: 101,
       title: 'Solo : A Star Wars Story ',
       channelName: 'Star Wars',
@@ -55,7 +55,7 @@ class ExampleContent {
     YoutubeCardContent(
       videoThumbnailUrl: 'https://i.ytimg.com/vi/ImoQqNyRL8Y/hqdefault.jpg',
       channelThumbnailUrl:
-          'https://lh3.googleusercontent.com/a-/ACSszfGZ6waJMP_NAwcjeZE7U_zSCfdoLUDF7fCaHw=s176-c-k-c0x00ffffff-no-rj-mo',
+          'https://yt3.ggpht.com/-J99ZnnSa7vE/AAAAAAAAAAI/AAAAAAAAAAA/KAhUFRgc9hU/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg',
       trendingPosition: 65,
       title: 'The Incredible Sounds of the Falcon Heavy ',
       channelName: 'Smarter Everyday',

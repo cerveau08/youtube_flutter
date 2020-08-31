@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:youtube_flutter/reusable/youtube.dart';
+import 'package:youtube_flutter/subscription.dart';
+import 'package:youtube_flutter/trending.dart';
 
 class Youtube extends StatefulWidget {
   @override
@@ -9,9 +12,9 @@ class _YoutubeState extends State<Youtube> {
 
   int _currentIndex = 0;
   final List<Widget> _children = [
-    Container(),
-    Container(),
-    Container(),
+    YoutubeBody(),
+    Trending(),
+    Subscription(),
     Container(),
   ];
 
@@ -36,7 +39,7 @@ class _YoutubeState extends State<Youtube> {
             'Youtube',
             style: TextStyle(
               color: Colors.black,
-              fontWeight: FontWeight.bold
+              fontWeight: FontWeight.w800
             ),
           ),
           actions: [
